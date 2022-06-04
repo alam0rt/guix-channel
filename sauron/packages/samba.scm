@@ -26,7 +26,7 @@
 ;;; You should have received a copy of the GNU General Public License
 ;;; along with GNU Guix.  If not, see <http://www.gnu.org/licenses/>.
 
-(define-module (gnu packages samba)
+(define-module (sauron packages samba)
   #:use-module (guix gexp)
   #:use-module (guix packages)
   #:use-module (guix download)
