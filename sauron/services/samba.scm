@@ -21,7 +21,7 @@
   #:use-module (gnu packages)
   #:use-module (gnu packages base)
   #:use-module (gnu packages admin)
-  #:use-module (gnu packages samba)
+  #:use-module (sauron packages samba)
 
   #:use-module (gnu services)
   #:use-module (gnu services configuration)
